@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/arundhatisingh/Desktop/METACRAFTER/github/event-challenge/contracts/eventChallenge.sol": {
+      "lastModificationDate": 1718898613600,
+      "contentHash": "33c59b1d32311a793df91440a5513d43",
+      "sourceName": "contracts/eventChallenge.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Bank"
+      ]
+    },
+    "/Users/arundhatisingh/Desktop/METACRAFTER/github/event-challenge/contracts/ErrorWorld.sol": {
+      "lastModificationDate": 1719741184034,
+      "contentHash": "24e1e6a9c6c0100eab06071edde02385",
+      "sourceName": "contracts/ErrorWorld.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "ErrorWorld"
+      ]
+    }
+  }
+}
